@@ -1,8 +1,11 @@
 ### Olá!!! Raul Leão aqui
 
+<img align='right' src='https://media4.giphy.com/media/MEYOZobkbW4YTkK7Pb/giphy.gif?cid=ecf05e47nvbryoke3hztj9md61qwk1yjqdskh6ipdmsd82mn&rid=giphy.gif&ct=s' width="180" height ="180">
+
 - 🌆Estagiando na Mega.Jr como UX/UI Designer
 - 💻Futuro Dev
 - 📚 Estudando ReactJS, JavaScript, HTML, CSS e Python
+
 ##
 <div>
   <a href="https://www.linkedin.com/in/raul-leão-914a4a20b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -27,10 +30,5 @@
 </div>
   
  ##
-
-  
-  <img align='right' src='https://media4.giphy.com/media/MEYOZobkbW4YTkK7Pb/giphy.gif?cid=ecf05e47nvbryoke3hztj9md61qwk1yjqdskh6ipdmsd82mn&rid=giphy.gif&ct=s' width='150' height ="150">
-  
-  
 
   ![Snake animation](https://github.com/Raulleao/raulleao/blob/output/github-contribution-grid-snake.svg)
