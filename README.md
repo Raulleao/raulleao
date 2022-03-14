@@ -2,7 +2,7 @@
 
 <img align='right' src='https://media4.giphy.com/media/MEYOZobkbW4YTkK7Pb/giphy.gif?cid=ecf05e47nvbryoke3hztj9md61qwk1yjqdskh6ipdmsd82mn&rid=giphy.gif&ct=s' width="180" height ="180">
 
-- 🌆Estagiando na Mega.Jr como UX/UI Designer
+- 🌆Estagiando na Mega Jr. como UX/UI Designer
 - 💻Futuro Dev
 - 📚 Estudando ReactJS, JavaScript, HTML, CSS e Python
 
