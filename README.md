@@ -4,7 +4,7 @@
 
 - 🌆Estagiando na Mega Jr. como UX/UI Designer
 - 💻Futuro Dev
-- 📚 Estudando ReactJS, JavaScript, HTML, CSS e Python
+- 📚 Estudando ReactJS, JavaScript, HTML e CSS
 
 ## Redes sociais
 <div>
